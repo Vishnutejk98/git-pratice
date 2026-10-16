@@ -1,4 +1,3 @@
-```yaml
 name: Build Spec Phase Practice
 
 on:
@@ -62,4 +61,3 @@ jobs:
           echo "Build workflow finished."
           echo "Job status: ${{ job.status }}"
           echo "POST_BUILD PHASE COMPLETED"
-```
