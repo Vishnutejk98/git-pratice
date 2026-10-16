@@ -1,5 +1,4 @@
 name: Build Spec Phase Practice
-
 on:
   pull_request:
     branches:
